@@ -1,0 +1,7 @@
+node_modules/
+typings/
+.tscache/
+dist/
+tmp/
+npm-debug.log
+src/.baseDir.ts
