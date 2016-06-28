@@ -39,6 +39,7 @@ const barrels: string[] = [
 
   // Components
   'app/app.component',
+  'app/ut-side-nav.component',
   /** @component-barrel */
 
   // Directives
